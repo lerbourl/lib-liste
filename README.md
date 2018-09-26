@@ -11,7 +11,7 @@ Cette structure de liste prend dans son champs valeur des `void*`. Ainsi, on peu
 ### Installation
 
 ```
-git clone https://github.com/lerbourl/lib_liste.git
+git clone https://github.com/lerbourl/lib-liste.git
 ```
 
 ### Compilation
